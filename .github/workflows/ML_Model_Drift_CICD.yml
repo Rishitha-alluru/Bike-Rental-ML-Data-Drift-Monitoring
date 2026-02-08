@@ -38,4 +38,4 @@ jobs:
     
     - name: Run Model Quality Gate Tests
       run: |
-        python tests/test_model.py
+        python test/test_model.py
